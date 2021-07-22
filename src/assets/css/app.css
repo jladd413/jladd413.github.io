@@ -1,5 +1,6 @@
 
 .header {
+    background-color: #ffffff;
 
 }
 
@@ -23,6 +24,10 @@
 }
 
 .pub-title {
+    font-weight: bold;
+}
+
+.pub-publisher {
     font-weight: bold;
 }
 
