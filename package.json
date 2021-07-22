@@ -1,7 +1,7 @@
 {
-  "name": "parcel-sandbox",
+  "name": "jim-ladd-publications",
   "version": "1.0.0",
-  "description": "Simple Parcel Sandbox",
+  "description": "Jim Ladd Publications",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
